@@ -1,0 +1,16 @@
+PODS:
+  - CYLTabBarController (1.0.5)
+  - Masonry (0.6.3)
+  - QBImagePickerController (3.4.0)
+
+DEPENDENCIES:
+  - CYLTabBarController
+  - Masonry
+  - QBImagePickerController
+
+SPEC CHECKSUMS:
+  CYLTabBarController: c758aba2b1aac34be1c217047079ab11b4a18f4a
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  QBImagePickerController: d54cf93db6decf26baf6ed3472f336ef35cae022
+
+COCOAPODS: 0.37.2
